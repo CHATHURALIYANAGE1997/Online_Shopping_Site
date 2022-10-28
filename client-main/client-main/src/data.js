@@ -1,23 +1,23 @@
 export const sliderItems = [
-  {
-    id: 1,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663365563/middleware/beautiful-smiling-young-blonde-woman-pointing-sunglasses-holding-shopping-bags-credit-card-pink-wall_catk0d.jpg",
-    title: "FAMOUS BOOKS",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-    bg: "f5fafd",
-  },
-  {
-    id: 2,
-    img: "https://res.cloudinary.com/midefulness/image/upload/v1663365552/middleware/two-happy-girls-sweaters-having-fun-with-shopping-trolley-megaphone-white-wall_jvzsnj.jpg",
-    title: "OLD COLLECTION",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-    bg: "fcf1ed",
-  },
+  // {
+  //   id: 1,
+  //   img: "https://res.cloudinary.com/midefulness/image/upload/v1663365563/middleware/beautiful-smiling-young-blonde-woman-pointing-sunglasses-holding-shopping-bags-credit-card-pink-wall_catk0d.jpg",
+  //   title: "BE WITH FASHION",
+  //   desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+  //   bg: "f5fafd",
+  // },
+  // {
+  //   id: 2,
+  //   img: "https://res.cloudinary.com/midefulness/image/upload/v1663365552/middleware/two-happy-girls-sweaters-having-fun-with-shopping-trolley-megaphone-white-wall_jvzsnj.jpg",
+  //   title: "BE WITH FASHION",
+  //   desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+  //   bg: "fcf1ed",
+  // },
   {
     id: 3,
     img: "https://res.cloudinary.com/midefulness/image/upload/v1663365573/middleware/happy-man-with-handbags-dancing-after-shopping-spree_lhcs72.jpg",
-    title: "BOOK LOVE",
-    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    title: "BE WITH FASHION",
+    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 10% OFF FOR NEW ARRIVALS.",
     bg: "fbf0f4",
   },
 ];

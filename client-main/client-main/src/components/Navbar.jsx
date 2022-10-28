@@ -113,7 +113,7 @@ const Navbar = () => {
         </Left>
         <Center>
           {/* <Link to="http://localhost:3000/"> */}
-          <Logo onClick={openHome}>Shopping Platform</Logo>
+          <Logo onClick={openHome}>Lion Appeal</Logo>
           {/* </Link> */}
         </Center>
 
